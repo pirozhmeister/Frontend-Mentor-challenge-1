@@ -1,0 +1,139 @@
+body {
+font-family: 'Barlow Semi Condensed', sans-serif;
+margin: 0;
+background-color: #ecf2f8;
+font-size: 15.5px;
+line-height: 20px;
+}
+p {
+  opacity: 70%;
+  margin: 1rem 2rem 2rem 2rem;
+}
+ h3 {
+   margin: 1.2rem 2rem 1rem 2rem;
+   font-size: 23px;
+   line-height: 30px;
+   opacity: 90%;
+ }
+h4 {
+  margin: 2rem 0 0 2rem;
+  opacity: 85%;
+  line-height: normal;
+}
+h5 {
+  opacity: 50%;
+  margin: 0 0 0 2rem;
+  line-height: normal;
+}
+.reviews {
+  position: absolute;
+}
+.quotation-img {
+  width: 19%;
+  position: absolute;
+  right: 6rem;
+  z-index: 0;
+}
+.clifford {
+background-color: #7541c8;
+color: #ffffff;
+width: 40rem;
+position: absolute;
+height: 21rem;
+margin: 2rem;;
+border-radius: 10px;
+}
+.clifford-rext {
+  z-index: 1;
+}
+.clifford-img {
+  border-radius: 100px;
+  float: left;
+  margin: 2rem 1rem 1rem 2rem;
+  width: 30px;
+  border: 2.8px solid  #a887de;
+}
+.walters{
+background-color: #48556a;
+color: #ffffff;
+position: absolute;
+width: 19rem;
+left: 43rem;
+height: 21rem;
+border-radius: 10px;
+margin: 2rem;
+}
+.walters-img {
+  border-radius: 100px;
+  float: left;
+  margin: 2rem 1rem 1rem 2rem;
+  width: 30px;
+  border: 2.8px solid  #48556a;
+}
+.harmon {
+background-color: #ffffff;
+color: #48556a;
+position: absolute;
+width: 19rem;
+top: 23rem;
+height: 20rem;
+border-radius: 10px;
+margin: 2rem;
+}
+.harmon-img {
+  border-radius: 100px;
+  float: left;
+  margin: 2rem 1rem 1rem 2rem;
+  width: 30px;
+
+}
+.harmon-paragraph {
+  margin-top: 2rem;
+}
+.abrams {
+background-color: #19212e;
+color: #ffffff;
+width: 40rem;
+position: absolute;
+left: 22rem;
+top: 23rem;
+height: 20rem;
+border-radius: 10px;
+margin: 2rem;
+}
+.abrams-img {
+  border-radius: 100px;
+  float: left;
+  margin: 2rem 1rem 1rem 2rem;
+  width: 30px;
+  border: 2.8px solid  #a887de;
+}
+
+.abrams-paragraph {
+  margin-top: 2rem;
+}
+.whittle {
+background-color: #ffffff;
+color: #48556a;
+width: 19rem;
+height: 43rem;
+position: absolute;
+left: 65rem;
+border-radius: 10px;
+margin: 2rem;
+}
+.whittle-img {
+  border-radius: 100px;
+  float: left;
+  margin: 2rem 1rem 1rem 2rem;
+  width: 30px;
+}
+.whittle-paragraph {
+  margin: 2rem 3.5rem 2rem 2rem;
+}
+
+.attribution {
+position: absolute;
+bottom: 0;
+margin: 2rem;
+}
